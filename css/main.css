@@ -1,0 +1,14 @@
+.square{
+    border-spacing: 15px;
+     /*border-collapse: collapse;
+    margin: 100px auto;*/
+}
+
+
+.square td{
+   border: 1px solid blue;
+   width: 100px;
+   height: 100px;
+  
+  
+}
